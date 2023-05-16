@@ -1,0 +1,23 @@
+{
+  "name": "node_streams",
+  "version": "1.0.0",
+  "description": "## Part 1",
+  "main": "nodeFetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryantellius/node_streams.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryantellius/node_streams/issues"
+  },
+  "homepage": "https://github.com/Bryantellius/node_streams#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
